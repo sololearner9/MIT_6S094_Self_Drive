@@ -9,6 +9,6 @@
 - [MIT : Deep Learning](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Research at MIT](https://www.youtube.com/watch?v=fCLI6kxFFTE&list=PLrAXtmErZgOfvrgXrKgzAFbqAW-lCG0Fv) | [MIT Self Driving Cars](https://www.youtube.com/watch?v=_OCjqIgxwHw&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq)
 
-- [Artificial general Intelligence](https://agi.mit.edu/) | [MIT Deep Learning](https://deeplearning.mit.edu/) | [Human-Centered Artificial Intelligence](https://hcai.mit.edu/) | [Lex Fridman Podcasts](https://lexfridman.com/ai/) | [Deep Learning Summer School Montreal](https://www.youtube.com/watch?v=xK-bzjIQkmM&list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR)
+✿ [Artificial general Intelligence](https://agi.mit.edu/) | [MIT Deep Learning](https://deeplearning.mit.edu/) | [Human-Centered Artificial Intelligence](https://hcai.mit.edu/) | [Lex Fridman Podcasts](https://lexfridman.com/ai/) | [Deep Learning Summer School Montreal](https://www.youtube.com/watch?v=xK-bzjIQkmM&list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR)
 
 <p align="justify">This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application.</p>
