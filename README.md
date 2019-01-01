@@ -15,14 +15,14 @@
 
 <p align="justify">This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application.</p>
 
-# ✈ [Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
+# 🚔 [Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/)
 
 <img src="https://github.com/SKKSaikia/MIT_6S094_Self_Drive/blob/master/deeptraffic.PNG">
 
-# ✈ [SegFuse](https://selfdrivingcars.mit.edu/segfuse/)
+# 🚔 [SegFuse](https://selfdrivingcars.mit.edu/segfuse/)
 
 <img src="https://github.com/SKKSaikia/MIT_6S094_Self_Drive/blob/master/segFuse.PNG">
 
-# ✈ [Deep Tesla](https://selfdrivingcars.mit.edu/deeptesla/)
+# 🚓 [Deep Tesla](https://selfdrivingcars.mit.edu/deeptesla/)
 
 <img src="https://github.com/SKKSaikia/MIT_6S094_Self_Drive/blob/master/deepTesla.PNG">
